@@ -1,9 +1,4 @@
----
-layout: frontpage
-title: Snowball Earth
-description: Supplementary material for the poster presentation: Global Cooling: The Snowball Earth transition in a climate with drifting parameters
-keywords: snowball, climate, dynamical systems, ensemble
----
+
 
 <div class="navbar">
   <div class="navbar-inner">
