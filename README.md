@@ -1,3 +1,10 @@
+---
+layout: frontpage
+title: EGU 2019, Snowball Earth
+description: Bálint Kaszás, Tímea Haszpra, Mátyás Herein
+keywords: dynamical systems, PlaSim, snowball, ensemble, climate
+---
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -8,4 +15,5 @@
       </ul>
   </div>
 </div>
+
 ## Global cooling: the Snowball Earth transition
