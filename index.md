@@ -18,7 +18,7 @@
 <tr>
   <td class="left" colspan = 2>
     <a href="posters/EGU2019_poster.pdf">
-        <img src="egu2019.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
+        <img src="posters/egu2019.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
     </a>
 </tr>
 <tr>
