@@ -16,27 +16,20 @@
 
 <table class="wide">
 <tr>
-  <td class="left">
-    <a href="poster.pdf">
-        <img src="poster.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
+  <td class="left" colspan = 2>
+    <a href="posters/EGU2019_poster.pdf">
+        <img src="egu2019.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
     </a>
-  </td>
-  <td class="right">
-    <a href="gifs/">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Coexisting snapshot attractors"/>
-    </a>
-  </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Edge state"/>
+    <a href="edge_state.gif">
+        <img src="edge_state_egu.png" alt="The edge state" title="The edge state"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/rqtl2_fig1.html">
-        <img src="assets/publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Natural measure"/>
+    <a href="average_sic.gif">
+        <img src="average_egu.png" alt="Coexisting snapshot attractors" title="Coexisting snapshot attractors"/>
     </a>
   </td>
 </tr>
