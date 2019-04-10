@@ -8,6 +8,7 @@
 </a>
 
 <table class="wide">
+ <tr>
   <td class="left">
     <a href="edge_state.gif">
         <img src="edge_state_egu.png" alt="The edge state" title="The edge state"/>
