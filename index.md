@@ -6,6 +6,7 @@
     <a href="posters/EGU2019_poster.pdf">
         <img src="posters/egu2019.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
     </a>
+    <td> </td>
 </tr>
 <tr>
   <td class="left">
@@ -27,7 +28,7 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="posters.html">Previous work</a></li>
+          <li><a href="posters.md">Previous work</a></li>
       </ul>
   </div>
 </div>
