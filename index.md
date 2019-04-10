@@ -2,7 +2,7 @@
 
 <table class="wide">
 <tr>
-  <td colspan = 2>
+  <td class="middle">
     <a href="posters/EGU2019_poster.pdf">
         <img src="posters/egu2019.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
     </a>
