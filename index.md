@@ -1,14 +1,13 @@
 # Global cooling: the Snowball Earth transition
 
+### B. K., Tímea Haszpra, Mátyás Herein
+
+
+<a href="posters/EGU2019_poster.pdf">
+<img src="posters/egu2019.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
+</a>
+
 <table class="wide">
-<tr>
-  <td class="left">
-    <a href="posters/EGU2019_poster.pdf">
-        <img src="posters/egu2019.png" alt="EGU 2019 Poster" title="EGU 2019 Poster"/>
-    </a>
-    <td> </td>
-</tr>
-<tr>
   <td class="left">
     <a href="edge_state.gif">
         <img src="edge_state_egu.png" alt="The edge state" title="The edge state"/>
@@ -28,7 +27,7 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="posters.md">Previous work</a></li>
+          <li><a href="posters.html">Previous work</a></li>
       </ul>
   </div>
 </div>
